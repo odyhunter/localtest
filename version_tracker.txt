@@ -4,6 +4,6 @@ bamboo.variable.ORIGIN_BUILD=2017.39
 bamboo.variable.ORIGIN_BUILD_URL=XXXXX
 bamboo.variable.GLANCE_ID=YYYYY
 bamboo.variable.IMAGE_VERSION=ZZZZZZ
-bamboo.variable.IMAAS_ID=1.1.2
-customRevision=1.1.1
+bamboo.variable.IMAAS_ID=1.2.2
+customRevision=1.1.2
 

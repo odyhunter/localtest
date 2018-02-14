@@ -6,4 +6,3 @@ bamboo.variable.GLANCE_ID=YYYYY
 bamboo.variable.IMAGE_VERSION=ZZZZZZ
 bamboo.variable.IMAAS_ID=1.2.2
 customRevision=1.1.2
-

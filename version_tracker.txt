@@ -8,3 +8,5 @@ customRevision=1.1.2
 newpara=333
 branch=local
 
+testonly=true
+

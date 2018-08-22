@@ -1,4 +1,3 @@
-
 bamboo.variable.VERSION=1.2.4
 bamboo.variable.ORIGIN_BUILD=2017.395
 bamboo.variable.ORIGIN_BUILD_URL=XXXXX
@@ -8,4 +7,6 @@ bamboo.variable.IMAAS_ID=1.2.3
 customRevision=1.1.2
 newpara=333
 branch=local
+
+testonly=true
 

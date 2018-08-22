@@ -1,4 +1,3 @@
-
 bamboo.variable.VERSION=1.2.4
 bamboo.variable.ORIGIN_BUILD=2017.395
 bamboo.variable.ORIGIN_BUILD_URL=XXXXX

@@ -7,6 +7,6 @@ bamboo.variable.IMAAS_ID=1.2.3
 customRevision=1.1.2
 newpara=333
 branch=local
-
+pr=false
 testonly=true
 

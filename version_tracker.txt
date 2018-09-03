@@ -9,4 +9,5 @@ newpara=333
 branch=local
 pr=false
 testonly=true
+pr_test=true
 
